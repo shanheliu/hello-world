@@ -1,2 +1,5 @@
 # hello-world
-the first repository
+
+Hi,guys!
+
+Today is my first day to be here.
